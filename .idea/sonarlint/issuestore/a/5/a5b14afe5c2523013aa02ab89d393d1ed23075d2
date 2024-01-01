@@ -1,0 +1,7 @@
+
+b	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(±Æè8€‡ä“Ì1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(•‡¿¦ıÿÿÿÿ8ƒ‡ä“Ì1
+L	java:S106"+Replace this use of System.out by a logger.(¦İúˆüÿÿÿÿ8…‡ä“Ì1
+G	java:S106"+Replace this use of System.out by a logger.(Ê•èˆ8†‡ä“Ì1
